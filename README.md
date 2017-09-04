@@ -1,5 +1,5 @@
 ## Resources
-常用网站开发相关静态资源文件。
+个人整理的常用网站开发相关静态资源文件。
 结构如下：
 
 Resources
@@ -11,8 +11,6 @@ Resources
   - JQuery
     - 2.2.0
     - 3.1.1
-  - Metronic
-    - 2013
   - ThinkPHP
     - 3.2
     - 5.0.3
